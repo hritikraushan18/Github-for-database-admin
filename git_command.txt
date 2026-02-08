@@ -1,0 +1,78 @@
+python tesying.py
+ls
+python testing.py
+clear
+ls
+ls-l
+clear
+pyhon testing.py
+python testing.py
+ls
+ls -l
+ls
+ls-l
+clear
+ls -l
+ls -l
+clear
+python testing.py
+python testing.py
+clear
+ls
+rm testing.py
+git init
+gitinit
+git in it
+gitinit
+git init
+ls
+ls -l
+ls
+dir
+clear
+ls
+ls -a
+git init
+git status
+git status
+git add testing.py
+git status
+ls
+ls -l
+ls -a
+clear
+git status
+git addtesting.py
+git add testing.py
+git status
+git rm --cached testing.py
+ls
+git status
+git add testing.py
+git commit -m ("added teting.py")
+git commit -m ("added testing.py")
+git status
+rm testing.py
+ls
+clear
+cd ..
+cd github-for-database-admin-workshop
+git status
+git restore testing.py
+git status
+git status
+git add testing.py
+git satus
+git status
+ls
+git init
+git status
+gitadd new.py
+git add new.py
+ls
+git status
+git commit -m "new.py"
+git status
+ls
+rm git
+clear
